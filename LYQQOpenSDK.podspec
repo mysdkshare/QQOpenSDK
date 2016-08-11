@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
-  s.name         = "MyQQOpenSDK"
-  s.version      = "1.3"
+  s.name         = "LYQQOpenSDK"
+  s.version      = "3.1.0"
   s.summary      = "用于存放腾讯开放平台的 SDK"
   s.description  = "用于存放腾讯开放平台的 SDK，以便自己的项目能通过 cocoaPods 管理"
   s.requires_arc        = true
